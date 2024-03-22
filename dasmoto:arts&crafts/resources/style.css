@@ -1,0 +1,48 @@
+body {
+    border: 1px solid black;
+}
+
+h1 {
+    text-align: center;
+    font-family: Helvetica;
+    font-size: 100px;
+    font-weight: bold;
+    color: khaki;
+    background-image: url(/resources/images/pattern.webp);
+}
+
+.brushes h2 {
+    background-color: rgb(83, 229, 173);
+    font-family: Helvetica;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+}
+
+.frames h2 {
+    background-color: rgb(245, 136, 97);
+    font-family: Helvetica;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+}
+
+
+.paint h2 {
+    background-color: skyblue;
+    font-family: Helvetica;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+
+}
+
+p {
+    font-family: Helvetica;
+}
+
+a {
+    font-family: Helvetica;
+    font-weight: bold;
+    color: blue;
+}
